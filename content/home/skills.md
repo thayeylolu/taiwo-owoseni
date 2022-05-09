@@ -22,8 +22,8 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-    icon_pack: "custom"
     icon: "git"
+    icon_pack: "custom"
     name: "git"
 
 
