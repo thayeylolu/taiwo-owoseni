@@ -48,6 +48,28 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/taiwo-owoseni-361a45156
+    
+ feature:
+    - icon: r
+      icon_pack: custom
+    - icon: aws
+      icon_pack: custom
+    - icon: git
+      icon_pack: custom
+    - icon: docker
+      icon_pack: custom
+    - icon: github
+      icon_pack: custom
+    - icon: sql
+      icon_pack: custom
+    - icon: python
+      icon_pack: custom
+    - icon: postgres
+      icon_pack: custom
+    - icon: mongodb
+      icon_pack: custom
+      
+  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
