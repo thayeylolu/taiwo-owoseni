@@ -1,23 +1,17 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Feature Analyis
+summary: Using ELI5 to interpret the features of a data set via the weights of boosting algorithms and a random forest alogrithm.
 tags:
-  - Deep Learning
+  - Machine Learning
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
+    url: https://github.com/thayeylolu/Feature-Analysis
+url_code: https://github.com/thayeylolu/Feature-Analysis#readme
 url_pdf: ''
 url_slides: ''
 url_video: ''
