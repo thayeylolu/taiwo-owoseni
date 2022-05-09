@@ -24,7 +24,7 @@ feature:
     name: Statistics
     icon_pack: "custom"
     icon: 'git'
-    name: git
+    name: 'git'
 
 
 # Uncomment to use emoji icons.
