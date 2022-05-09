@@ -16,15 +16,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-    - icon: r-project
-      icon_pack: fab
-      name: R
-    - icon: chart-line
-      icon_pack: fas
-      name: Statistics
+    - icon: r
+      icon_pack: custom
+    - icon: aws
+      icon_pack: custom
     - icon: git
       icon_pack: custom
-      name: git-img
+    - icon: docker
+      icon_pack: custom
+    - icon: github
+      icon_pack: custom
+    - icon: sql
+      icon_pack: custom
+    - icon: python
+      icon_pack: custom
+    - icon: postgres
+      icon_pack: custom
+    - icon: mongodb
+      icon_pack: custom
+      
+      
+      
 
 
 # Uncomment to use emoji icons.
