@@ -8,8 +8,6 @@ superuser: true
 # Role/position/tagline
 role: Masters of Data Science
 
-role: SKILLS 
-
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of British Columbia
@@ -43,22 +41,31 @@ education:
  social:
     - icon: r
       icon_pack: custom
+      link : ''
     - icon: aws
       icon_pack: custom
+      link : ''
     - icon: git
       icon_pack: custom
+      link : ''
     - icon: docker
       icon_pack: custom
+      link : ''
     - icon: github
       icon_pack: custom
+      link : ''
     - icon: sql
       icon_pack: custom
+      link : ''
     - icon: python
       icon_pack: custom
+      link : ''
     - icon: postgres
       icon_pack: custom
+      link : ''
     - icon: mongodb
       icon_pack: custom
+      link : ''
       
  
 # Link to a PDF of your resume/CV.
