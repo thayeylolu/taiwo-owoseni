@@ -24,10 +24,6 @@ feature:
     icon_pack: fas
     name: Statistics
     description: 100%
-    icon: git
-    icon_pack: custom
-    name: git
-    description: 100%
 
 
 # Uncomment to use emoji icons.
