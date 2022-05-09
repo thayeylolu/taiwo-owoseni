@@ -23,8 +23,8 @@ feature:
     icon_pack: fas
     name: Statistics
     icon_pack: "custom"
-    icon: 'git'
-    name: 'git'
+    icon: "git"
+    name: "git"
 
 
 # Uncomment to use emoji icons.
