@@ -8,20 +8,22 @@ superuser: true
 # Role/position/tagline
 role: Masters of Data Science
 
+role: SKILLS 
+
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of British Columbia
     url: https://www.ubc.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
   - Machine Learning
   - Open-Source Contribution
   - AI Ethic
-  - COmputer Vision
+  - Computer Vision
 
 # Education to show in About widget
 education:
@@ -38,18 +40,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:thayehas@gmail.com" or "/#contact" for contact widget.
 
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/thayeylolu
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/taiwo-owoseni-361a45156
-    
- feature:
+ social:
     - icon: r
       icon_pack: custom
     - icon: aws
@@ -69,8 +60,7 @@ social:
     - icon: mongodb
       icon_pack: custom
       
-  
-
+ 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
@@ -83,7 +73,9 @@ email: 'thayehas@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
 ---
+
 Taiwo Owoseni is a graduate student in the Master of Data Science (MDS) program at the University of British Columbia (UBC). She is a data scientist with some years of work experience as a Data Analyst. She worked with one of the largest telecommunication industries in Africa, Asia and Europe - Airtel Nigeria. 
 
 She worked as a Data Analyst in a retail pharmaceutical startup - One Health Nigeria . Her primary role was to make data driven decision to grow the startup.
