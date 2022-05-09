@@ -41,16 +41,16 @@ education:
  social:
     - icon: r
       icon_pack: custom
-      link : ''
+      link : 
     - icon: aws
       icon_pack: custom
-      link : ''
+      link : 
     - icon: git
       icon_pack: custom
-      link : ''
+      link : 
     - icon: docker
       icon_pack: custom
-      link : ''
+      link : 
     - icon: github
       icon_pack: custom
       link : ''
@@ -80,7 +80,6 @@ email: 'thayehas@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-
 ---
 
 Taiwo Owoseni is a graduate student in the Master of Data Science (MDS) program at the University of British Columbia (UBC). She is a data scientist with some years of work experience as a Data Analyst. She worked with one of the largest telecommunication industries in Africa, Asia and Europe - Airtel Nigeria. 
