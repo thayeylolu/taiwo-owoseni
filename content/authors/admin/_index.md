@@ -40,7 +40,7 @@ education:
 
 social:
     - icon:  uploads/icon/r
-      icon_pack: custom
+      icon_pack: ai
       link : ''
  
 # Link to a PDF of your resume/CV.
