@@ -39,7 +39,7 @@ education:
 #   form "mailto:thayehas@gmail.com" or "/#contact" for contact widget.
 
 social:
-    - icon:  uploads/icon/r.svg
+    - icon:  uploads/icon/r
       icon_pack: custom
       link : ''
  
