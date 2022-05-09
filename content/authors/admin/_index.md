@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Taiwo Owoseni
-widget: featurette
 
 # Is this the primary user of the site?
 superuser: true
@@ -39,14 +38,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:thayehas@gmail.com" or "/#contact" for contact widget.
 
-
-   social:
+social:
     - icon:  uploads/icon/r.svg
-      icon_pack: ai
-      link : 
-   
-      
-      
+      icon_pack: custom
+      link : ''
  
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
