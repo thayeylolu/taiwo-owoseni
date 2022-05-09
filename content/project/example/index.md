@@ -11,7 +11,7 @@ external_link: ''
 
 links:
     url: https://github.com/thayeylolu/Feature-Analysis
-url_code: https://github.com/thayeylolu/Feature-Analysis#readme
+url_code: 'https://github.com/thayeylolu/Feature-Analysis#readme'
 url_pdf: ''
 url_slides: ''
 url_video: ''
