@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Taiwo Owoseni
+widget: featurette
 
 # Is this the primary user of the site?
 superuser: true
@@ -38,34 +39,13 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:thayehas@gmail.com" or "/#contact" for contact widget.
 
- social:
-    - icon: r
-      icon_pack: custom
+
+   social:
+    - icon:  uploads/icon/r.svg
+      icon_pack: ai
       link : 
-    - icon: aws
-      icon_pack: custom
-      link : 
-    - icon: git
-      icon_pack: custom
-      link : 
-    - icon: docker
-      icon_pack: custom
-      link : 
-    - icon: github
-      icon_pack: custom
-      link : ''
-    - icon: sql
-      icon_pack: custom
-      link : ''
-    - icon: python
-      icon_pack: custom
-      link : ''
-    - icon: postgres
-      icon_pack: custom
-      link : ''
-    - icon: mongodb
-      icon_pack: custom
-      link : ''
+   
+      
       
  
 # Link to a PDF of your resume/CV.
@@ -76,7 +56,7 @@ education:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'thayehas@gmail.com'
+email: thayehas@gmail.com
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
