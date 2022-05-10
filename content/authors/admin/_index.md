@@ -39,9 +39,13 @@ education:
 #   form "mailto:thayehas@gmail.com" or "/#contact" for contact widget.
 
 social:
-  - icon: uploads/icon/r.svg
-    icon_pack: ai
-    
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/thayeylolu
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/taiwo-owoseni-361a45156/
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
