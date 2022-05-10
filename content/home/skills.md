@@ -9,7 +9,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 20
-columns = "9"
+columns: 9
 
 
 
@@ -36,9 +36,7 @@ feature:
     - icon: mongodb
       icon_pack: custom
       
-      
-  
-
+     
 
 # Uncomment to use emoji icons.
 # - icon: ":smile:"
