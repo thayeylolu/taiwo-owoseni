@@ -2,15 +2,16 @@
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
-
+title: Skills
+subtitle:
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
+columns = "9"
 
-title: Skills
-subtitle:
+
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -36,7 +37,7 @@ feature:
       icon_pack: custom
       
       
-      
+  
 
 
 # Uncomment to use emoji icons.
