@@ -44,5 +44,4 @@ design:
   columns: '9'
   
 ---
-![]
 
