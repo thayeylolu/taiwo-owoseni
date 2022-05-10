@@ -10,8 +10,8 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Contact
-    url: '#contact'
+  - name: Skill
+    url: '#skills'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
