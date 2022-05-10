@@ -13,8 +13,8 @@ main:
    - name: Acomplishments and Experience
     url: '#accomplishments'
     weight: 40
-  - name: Skill
-    url: '#skills'
+  - name: Accomplishments
+    url: '#accomplishments'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
