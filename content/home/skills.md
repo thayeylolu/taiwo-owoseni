@@ -13,24 +13,13 @@ title: Skill
 subtitle: ''
 
 feature:
-    - icon: r
-      icon_pack: custom
-    - icon: aws
-      icon_pack: custom
-    - icon: git
-      icon_pack: custom
-    - icon: docker
-      icon_pack: custom
-    - icon: github
-      icon_pack: custom
-    - icon: sql
-      icon_pack: custom
-    - icon: python
-      icon_pack: custom
-    - icon: postgres
-      icon_pack: custom
-    - icon: mongodb
-      icon_pack: custom
+  - icon: r
+    icon_pack: custom
+  - icon: aws
+    icon_pack: custom
+  - icon: git
+    icon_pack: custom
+ 
       
 content:
   # Page type to display. E.g. project.
