@@ -20,7 +20,7 @@ organizations:
 interests:
   - Machine Learning
   - Open-Source Contribution
-  - AI Ethic
+  - AI Ethics
   - Computer Vision
 
 # Education to show in About widget
@@ -62,14 +62,13 @@ email: thayehas@gmail.com
 highlight_name: true
 ---
 
-Taiwo Owoseni is a graduate student in the Master of Data Science (MDS) program at the University of British Columbia (UBC). She is a data scientist with some years of work experience as a Data Analyst. She worked with one of the largest telecommunication industries in Africa, Asia and Europe - Airtel Nigeria. 
+Taiwo Owoseni is a graduate student of the Master of Data Science program at the University of British Columbia (UBC). She has some years of work experience as a Data Analyst. She worked with one of the largest telecommunication industries in Africa, Asia and Europe - Airtel Nigeria. 
 
 She worked as a Data Analyst in a retail pharmaceutical startup - One Health Nigeria . Her primary role was to make data driven decision to grow the startup.
 
-For her capstone project, She is channelling the wealth of knowldege she amassed during her graduate studies at Trusting Pixels Inc - a company that aims to promote honest representation of people in media - to build ethical AI products.
+For her capstone project, She is channelling the wealth of knowldege she amassed during her graduate studies to build ethical AI products for Trusting Pixels Inc - a company that aims to promote honest representation of people in media.
 
-
-During her free time, she contributes to sktime - an opensource  data science library for times series analysis. She sees this as a means to give back to the community. She also enjoys biking, painting and taking long walks. She volunteers at FIRST - A global robotics community prpearing young people for the future.  She believes she is one with the Force and probably the next 'Last Jedi' - in another universe....
+During her free time, she contributes to sktime - an opensource  data science library for times series analysis. She sees this as a means to give back to the community. She also enjoys biking, painting and taking long walks. She volunteers at FIRST Robotics - A global robotics community prpearing young people for the future.  She believes she is one with the Force and probably the next 'Last Jedi' - in another universe....
 
 
 
