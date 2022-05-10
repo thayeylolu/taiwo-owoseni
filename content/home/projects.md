@@ -45,7 +45,7 @@ design:
 ### Machine Learning : Feature Analysis
 
 - I interpreted and analysed the importance of features of the [pumpkin seed data set](https://www.kaggle.com/mkoklu42/pumpkin-seeds-dataset?select=Pumpkin_Seeds_Dataset.xlsx) across three machine learning algorithms: Logistic Regression,
-Random Forest and Light Gradient Boost. [Analysis here] (https://github.com/thayeylolu/Feature-Analysis/blob/main/feature%20analysis.ipynb)
+Random Forest and Light Gradient Boost. [Analysis here](https://github.com/thayeylolu/Feature-Analysis/blob/main/feature%20analysis.ipynb)
 
 
 
