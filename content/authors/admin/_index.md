@@ -63,7 +63,6 @@ highlight_name: true
 
 I am a graduate student of the Master of Data Science program at the University of British Columbia (UBC). I've worked as a Business Intelligence Analyst at Airtel - a large telecommunication industries in Africa, Asia and Europe. 
 I also worked as a Data Analyst in a retail pharmaceutical startup - One Health Nigeria . My primary role was to make data driven decision to grow the startup.
-For my grdaute capstone project, I channelled the wealth of knowldege I amassed during her graduate studies in areas of machine learning to build an ethical AI product for Trusting Pixels Inc - a company that aims to promote honest representation of people in media.
 
 During my free time, I contribute to sktime - an opensource  data science library for times series analysis. I see this as an opportunity to give back to the community. I also enjoys biking, painting and taking long walks. I also volunteer at FIRST Robotics - A global robotics community prepearing young people for the future. 
 
