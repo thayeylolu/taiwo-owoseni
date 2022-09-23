@@ -20,8 +20,7 @@ organizations:
 interests:
   - Machine Learning
   - Open-Source Contribution
-  - AI Ethics
-  - Computer Vision
+  - NLP Enthusiast
 
 # Education to show in About widget
 education:
@@ -36,7 +35,7 @@ education:
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:thayehas@gmail.com" or "/#contact" for contact widget.
+#   form "mailto:hamdallahhassanah@gmail.com" or "/#contact" for contact widget.
 
 social:
   - icon: github
@@ -44,7 +43,7 @@ social:
     link: https://github.com/thayeylolu
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/taiwo-owoseni-361a45156/
+    link: https://www.linkedin.com/in/thayehas/
 
 
 
@@ -56,20 +55,17 @@ social:
 #  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: thayehas@gmail.com
+email: hamdallahhassanah@gmail.com
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Taiwo Owoseni is a graduate student of the Master of Data Science program at the University of British Columbia (UBC). She has some years of work experience as a Data Analyst. She worked with one of the largest telecommunication industries in Africa, Asia and Europe - Airtel Nigeria. 
+I am a graduate student of the Master of Data Science program at the University of British Columbia (UBC). I've worked as a Business Intelligence Analyst at Airtel - a large telecommunication industries in Africa, Asia and Europe. 
+I also worked as a Data Analyst in a retail pharmaceutical startup - One Health Nigeria . My primary role was to make data driven decision to grow the startup.
+For my grdaute capstone project, I channelled the wealth of knowldege I amassed during her graduate studies in areas of machine learning to build an ethical AI product for Trusting Pixels Inc - a company that aims to promote honest representation of people in media.
 
-She worked as a Data Analyst in a retail pharmaceutical startup - One Health Nigeria . Her primary role was to make data driven decision to grow the startup.
-
-For her capstone project, She is channelling the wealth of knowldege she amassed during her graduate studies to build ethical AI products for Trusting Pixels Inc - a company that aims to promote honest representation of people in media.
-
-During her free time, she contributes to sktime - an opensource  data science library for times series analysis. She sees this as a means to give back to the community. She also enjoys biking, painting and taking long walks. She volunteers at FIRST Robotics - A global robotics community prpearing young people for the future.  She believes she is one with the Force and probably the next 'Last Jedi' - in another universe....
-
+During my free time, I contribute to sktime - an opensource  data science library for times series analysis. I see this as an opportunity to give back to the community. I also enjoys biking, painting and taking long walks. I also volunteer at FIRST Robotics - A global robotics community prepearing young people for the future. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
