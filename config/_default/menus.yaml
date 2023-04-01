@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Data Analysis Projects
-    url: '#projects'
+    url: '#datanalysis'
     weight: 30
   - name: Data Engineering Projects
     url: '#dataengineering'
