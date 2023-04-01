@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Data Analysis Projects
+title: Data Analysis
 subtitle: ''
 
 content:
