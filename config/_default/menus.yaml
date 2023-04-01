@@ -10,7 +10,7 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Dataengineering
+  - name: Data Engineering Projects
     url: '#dataengineering'
     weight: 40
 
