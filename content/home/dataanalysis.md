@@ -28,7 +28,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
@@ -38,7 +38,7 @@ design:
 
 
 
-### Data Visualization : Frauduelnt Pyrchase Analysis Dashboard
+### Data Visualization : Fraud Purchase Analysis Dashboard
 **Tools** Excel, Tableau
 I created a [Tableau dashboard](https://public.tableau.com/app/profile/taiwo.owoseni2578/viz/start2_16777138500650/Dashboard1) to provide comprehensive view of fraudulent activity in the US, using data-driven analysis techniques to uncover important trends and patterns. The dashboard includes charts that display fraudulent purchase activities across different US states, a time series of purchase activities using a six-week moving window, and comparisons of fraud frequency between different employment statuses and fitlers by genders. 
  
