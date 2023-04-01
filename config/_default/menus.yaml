@@ -9,13 +9,13 @@ main:
     weight: 10
   - name: Data Analysis Projects
     url: '#dataanalysis'
-    weight: 30
+    weight: 10
   - name: Data Engineering Projects
     url: '#dataengineering'
-    weight: 40
+    weight: 10
   - name: Data Science Projects
     url: '#datascience'
-    weight: 40
+    weight: 10
 
 
 # Link to a PDF of your resume/CV from the menu.
