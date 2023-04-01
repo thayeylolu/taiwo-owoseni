@@ -7,11 +7,14 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Projects
+  - name: Data Analysis Projects
     url: '#projects'
     weight: 30
   - name: Data Engineering Projects
     url: '#dataengineering'
+    weight: 40
+  - name: Data Science Projects
+    url: '#datascience'
     weight: 40
 
 
