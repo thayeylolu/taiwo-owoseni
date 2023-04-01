@@ -35,7 +35,10 @@ design:
 ---
 
 
+### Cyberbullying Detection in Tweets 
+**Tools**:  Python, NLTK, Pandas, Scikit-Learn, Github, Git, Pytorch, Hugging Face Transformer
 
+Automated process to determine Cyberbullying . In this [project](https://www.linkedin.com/posts/vector-institute_cyberbullying-ml-dl-activity-7034945655965945856-S3VY?utm_source=share&utm_medium=member_desktop), I built a classifier using PyTorch to fine-tune a BERT model. 
 
 ### Feature Analysis
 
