@@ -37,12 +37,12 @@ design:
 
 
 
-### Machine Learning : Feature Analysis
+### Feature Analysis
 
 - I interpreted and analysed the importance of features of the [pumpkin seed data set](https://www.kaggle.com/mkoklu42/pumpkin-seeds-dataset?select=Pumpkin_Seeds_Dataset.xlsx) across three machine learning algorithms: Logistic Regression,
 Random Forest and Light Gradient Boost. [Analysis here](https://github.com/thayeylolu/Feature-Analysis/blob/main/feature%20analysis.ipynb)
----
-### Statistics : A/B Testing
+
+### A/B Testing
 - I ran a case study where A/B testing is applied to the ad click through rate. The data soucre can be found in [Kaggle](https://www.kaggle.com/datasets/osuolaleemmanuel/ad-ab-testing). The primary aim is to compare user interactions with the bio questionnaire to determine which interaction statistically improves CTR.
 
 
