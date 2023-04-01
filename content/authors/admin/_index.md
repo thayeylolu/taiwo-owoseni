@@ -62,7 +62,7 @@ highlight_name: true
 ---
 
 
-Data Scientist with 3+ years of commercial experience in analytics,significantly contributed to business goals in customer experience, risk migration, innovative marketing, and sales operation. Master's degree in Data Science from The University of British Columbia. Previously at Airtel(a matrix multinational telecommunication industries in Africa, Asia and Europe) and retail pharmacy startup - One Health.
+Data Scientist with 3+ years of commercial experience in analytics,significantly contributed to business goals in customer experience, risk migration, innovative marketing, and sales operation. Master's degree in Data Science from The University of British Columbia. Previously at Airtel (a matrix multinational telecommunication industries in Africa, Asia and Europe) and retail pharmacy startup - One Health.
 Volunteers at FIRST Robotics - A global robotics community preparing young people intrested in STEM for the future. 
 
 
